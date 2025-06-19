@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Configuración de usuario
+.bash_history
+.gitconfig
+.lesshst
+.viminfo
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
